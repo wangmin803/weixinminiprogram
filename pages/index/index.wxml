@@ -1,0 +1,144 @@
+<!--index.wxml-->
+<view class="banner"></view>
+<view class="weui-panel weui-panel_access" style="margin-top:0px;">
+            <view class="weui-panel__hd">商标注册</view>
+            <view class="weui-panel__bd">
+               <view bindtap='goSbzc' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/xcx.jpg" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">商标局备案机构</view>
+                        <view class="weui-media-box__desc">正规的商标局备案机构。</view>
+                    </view>
+                </view>
+                <view bindtap='goSbzc' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/fwh.jpg" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">专业查询</view>
+                        <view class="weui-media-box__desc">免费查询商标近似</view>
+                    </view>
+                </view>
+              
+                    <view bindtap='goSbzc' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/qyh.jpg" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">电子平台上报</view>
+                        <view class="weui-media-box__desc">通过电子平台上报商标</view>
+                    </view>
+                </view>
+
+                
+            </view>
+        </view>
+      
+  <view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd">高新技术企业认定</view>
+            <view class="weui-panel__bd">
+                <view bindtap='goGxrd'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">专业辅导咨询</view>
+                        <view class="weui-media-box__desc">提供高新技术企业认定的辅导咨询。</view>
+                    </view>
+                </view>
+                </view>
+
+     <view class="weui-panel__bd">
+                <view  bindtap='goGxrd'  class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">提前培育</view>
+                        <view class="weui-media-box__desc">在高新技术企业申报的前一年提前进入企业辅导。</view>
+                    </view>
+                </view>
+                </view>
+     <view class="weui-panel__bd">
+                <view  bindtap='goGxrd'  class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">经验丰富</view>
+                        <view class="weui-media-box__desc">多年从业专家进行专业辅导。</view>
+                    </view>
+                </view>
+                </view>
+                
+
+
+              </view>
+
+
+<view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd">行业软件定制研发服务</view>
+            <view class="weui-panel__bd">
+                <view bindtap='goContactus' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/dianshang.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">电商系统研发</view>
+                        <view class="weui-media-box__desc">定制研发电商系统，助力企业打通电商渠道和新零售。</view>
+                    </view>
+                </view>
+                <view bindtap='goContactus' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">在线教育网校平台研发</view>
+                        <view class="weui-media-box__desc">教育上云，覆盖全国，用最低的成本完成教育大计</view>
+                    </view>
+                </view>
+                    <view bindtap='goContactus' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/erp.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">ERP系统研发</view>
+                        <view class="weui-media-box__desc">零售、直营只要涉及到仓库、销售订单、进货等业务的，都可定制</view>
+                    </view>
+                </view>
+                <view bindtap='goContactus' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">论坛社区定制研发</view>
+                        <view class="weui-media-box__desc">为组织或者企业内部定制研发社区论坛系统，满足沟通交流以及内容沉淀</view>
+                    </view>
+                </view>
+                <view bindtap='goContactus' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/canyin.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">餐饮行业解决方案</view>
+                        <view class="weui-media-box__desc">点餐系统、电子菜单、扫码点菜、餐厅信息化解决方案</view>
+                    </view>
+                </view>
+                <view bindtap='goContactus' class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/pingtai.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">其他软件系统定制研发服务</view>
+                        <view class="weui-media-box__desc">只要您有需求，我们就是您的信息化服务专家。</view>
+                    </view>
+                </view>
+
+                
+                
+              
+              
+            </view>
+        </view>

@@ -1,0 +1,9 @@
+page{
+  background-color: #FFF;
+}
+
+text{
+  display: block;
+  margin-bottom: 20px;
+}
+

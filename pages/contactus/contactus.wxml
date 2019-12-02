@@ -1,0 +1,22 @@
+<view class="banner"></view>
+<view class="main_wrap">
+ <text>晋知鸟是山西景铭科技有限公司旗下的品牌,专注与商标注册,软件开发,高新技术企业认定咨询。</text>
+    <text>同时提供各行业IT解决方案服务。</text>
+  <view class="blue">
+
+   
+    <view>公司地址：山西国药大厦8层831室</view>
+    <view>公司网址：www.jzn360.com</view>
+    <view class="callbtn">
+    <button class="weui_btn" bindtap='callPhone' type='primary'>电话咨询</button>
+    </view>
+      <view class="callbtn">
+    <button class="weui_btn" bindtap='addPhone' type='primary'>添加到手机通讯录</button>
+    </view>
+
+      <view class="callbtn">
+    <button class="weui_btn" open-type='contact' type='warn'>咨询在线客服</button>
+    </view>
+
+  </view>
+</view>
