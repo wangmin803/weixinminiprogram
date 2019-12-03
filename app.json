@@ -2,9 +2,10 @@
   "pages": [
     "pages/index/index",
     "pages/contactus/contactus",
-
     "pages/sbzc/sbzc",
-    "pages/gxrd/gxrd"
+    "pages/gxrd/gxrd",
+    "pages/detail/detail",
+    "pages/gxrdlist/gxrdlist"
   ],
   "window": {
     "backgroundTextStyle": "light",

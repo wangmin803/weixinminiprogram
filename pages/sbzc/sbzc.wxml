@@ -85,9 +85,9 @@
                     </view>
                 </navigator>
                 </view>
-                
-
-
               </view>
+                <view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd" bindtap='goMoredSbzc'>更多商标注册知识</view>
+  </view>
 
 

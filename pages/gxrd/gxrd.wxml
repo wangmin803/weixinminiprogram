@@ -42,3 +42,9 @@
 
 
               </view>
+
+
+                    
+  <view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd" bindtap='goMoredGxrd'>更多高新技术企业认定知识</view>
+  </view>

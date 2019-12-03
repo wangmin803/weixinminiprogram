@@ -1,0 +1,35 @@
+<view class="feed-item" >
+    <view class="zan-font-16">
+      <text style="text-align:center;font-weight:bold">{{title}}</text>
+    </view>
+    <view class='tag-title'>
+      <image mode="widthFix" binderror="errorloadImage" src="https://www.jzn360.com/sy.jpg"></image>
+    </view>
+    <view class="tag-body">
+      <view class="tag-actions">
+       
+       
+          <view class="icon-created">
+          <view class="zan-icon zan-icon-clock zan-pull-left zan-font-12"></view>
+          <view class="zan-pull-left zan-font-12">
+            <text>{{publishDateString}}</text>
+          </view>
+       </view>
+
+
+      </view>
+   
+     
+      </view>
+
+    </view>
+<rich-text class="contentclass" nodes="{{newsContent}}"></rich-text>
+    
+
+
+
+
+
+
+
+  
