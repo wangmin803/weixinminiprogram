@@ -26,7 +26,7 @@ Page({
   },
   onUnload: function () {
        
-    	wx.navigateTo({
+    wx.switchTab({
             url: '/pages/gxrd/gxrd'
         });
   },

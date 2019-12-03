@@ -3,7 +3,7 @@
 <view class="weui-panel weui-panel_access" style="margin-top:0px;">
             <view class="weui-panel__hd">商标注册</view>
             <view class="weui-panel__bd">
-              <navigator url="../wechatxcx/wechatxcx" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+               <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                         <image class="weui-media-box__thumb" src="../../assets/imgs/xcx.jpg" />
                     </view>
@@ -11,8 +11,8 @@
                         <view class="weui-media-box__title">商标局备案机构</view>
                         <view class="weui-media-box__desc">正规的商标局备案机构。</view>
                     </view>
-                </navigator>
-                <navigator url="../wechatfwh/wechatfwh" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                </view>
+            <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                      <image class="weui-media-box__thumb" src="../../assets/imgs/fwh.jpg" />
                     </view>
@@ -20,9 +20,9 @@
                         <view class="weui-media-box__title">专业查询</view>
                         <view class="weui-media-box__desc">免费查询商标近似</view>
                     </view>
-                </navigator>
+                </view>
               
-                    <navigator url="../wechatqyh/wechatqyh" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                         <image class="weui-media-box__thumb" src="../../assets/imgs/qyh.jpg" />
                     </view>
@@ -30,7 +30,7 @@
                         <view class="weui-media-box__title">电子平台上报</view>
                         <view class="weui-media-box__desc">通过电子平台上报商标</view>
                     </view>
-                </navigator>
+                </view>
 
                 
             </view>
@@ -39,7 +39,7 @@
   <view class="weui-panel weui-panel_access">
             <view class="weui-panel__hd">商标注册需要的材料</view>
             <view class="weui-panel__bd">
-                <navigator url="../omo/omo" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+             <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                    <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png" />
                     </view>
@@ -47,11 +47,11 @@
                         <view class="weui-media-box__title">代理委托书</view>
                 
                     </view>
-                </navigator>
+                </view>
                 </view>
 
      <view class="weui-panel__bd">
-                <navigator url="../omo/omo" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                      <image class="weui-media-box__thumb" src="../../assets/imgs/store.png" />
                     </view>
@@ -59,10 +59,10 @@
                         <view class="weui-media-box__title">营业执照</view>
                        
                     </view>
-                </navigator>
+                </view>
                 </view>
      <view class="weui-panel__bd">
-                <navigator url="../omo/omo" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+               <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                       <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" />
                     </view>
@@ -70,12 +70,12 @@
                         <view class="weui-media-box__title">身份证</view>
                      
                     </view>
-                </navigator>
+                </view>
                 </view>
 
 
                      <view class="weui-panel__bd">
-                <navigator url="../omo/omo" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+           <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
                       <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" />
                     </view>
@@ -83,7 +83,7 @@
                         <view class="weui-media-box__title">商标图样</view>
                      
                     </view>
-                </navigator>
+                </view>
                 </view>
               </view>
                 <view class="weui-panel weui-panel_access">
