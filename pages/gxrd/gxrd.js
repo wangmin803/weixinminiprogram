@@ -12,8 +12,9 @@ Page({
     },
     onShow: function() {
         // 监听页面显示的生命周期函数
-            
-  
+               
+      
+        app.setNbt('gqrd');
     },
     onHide: function() {
         // 监听页面隐藏的生命周期函数
@@ -24,6 +25,9 @@ Page({
     onPullDownRefresh: function() {
         // 监听用户下拉动作
     },
+     goContactus: function () {
+    app.goContactus();
+  },
     onReachBottom: function() {
         // 页面上拉触底事件的处理函数
     },
@@ -31,7 +35,8 @@ Page({
         // 用户点击右上角转发
     },
     goMoredGxrd: function () {
-        app.goMoreList('gxrd');
+       
+        app.goMoreList('gqrd');
   }
 
 });

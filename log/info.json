@@ -1,0 +1,92 @@
+[
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/app.js",
+        "row": 6,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/app.js",
+        "row": 10,
+        "column": 8,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/contactus/contactus.js",
+        "row": 4,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/contactus/contactus.js",
+        "row": 8,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/contactus/contactus.js",
+        "row": 12,
+        "column": 10,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/contactus/contactus.js",
+        "row": 15,
+        "column": 10,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/contactus/contactus.js",
+        "row": 27,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/wechatfwh/wechatfwh.js",
+        "row": 20,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/wechatqyh/wechatqyh.js",
+        "row": 22,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform function call arg name",
+        "file": "C:/Users/mayn/Desktop/66/a/pages/wechatxcx/wechatxcx.js",
+        "row": 26,
+        "column": 4,
+        "before": "wx",
+        "after": "swan",
+        "message": "只转换了上下文, wx ==> swan"
+    }
+]

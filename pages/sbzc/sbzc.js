@@ -12,9 +12,14 @@ Page({
     onHide: function() {
         // 监听页面初次渲染完成的生命周期函数
     },
+     goContactus: function () {
+    app.goContactus();
+  },
     onShow: function() {
         // 监听页面显示的生命周期函数
-  
+              
+
+        app.setNbt('sbzc');
     },
     
     goMoredSbzc: function () {

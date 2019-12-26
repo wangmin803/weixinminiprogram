@@ -1,0 +1,149 @@
+
+<view class="banner4"></view>
+<view class="weui-panel weui-panel_access" style="margin-top:0px;">
+            <view class="weui-panel__hd">软件著作权</view>
+            <view class="weui-panel__bd" catchtap="goContactus">
+            <view  class="weui-media-box weui-media-box_appmsg" catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/xcx.jpg" catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">专业申报</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">多年从业经验</view>
+                    </view>
+                </view>
+         <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/fwh.jpg"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">退款保障</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">办理不成功退款</view>
+                    </view>
+             </view>
+              
+                  <view class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/qyh.jpg"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">电子平台上报</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">通过电子平台上报商标</view>
+                    </view>
+                  </view>
+
+                
+            </view>
+        </view>
+      
+  <view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd">软件著作权申请需要的材料</view>
+            <view class="weui-panel__bd"  catchtap="goContactus">
+                 <view class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">软件说明书电子版</view>
+                
+                    </view>
+             </view>
+                </view>
+
+     <view class="weui-panel__bd"  catchtap="goContactus">
+                <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">软件部分源代码电子版</view>
+                       
+                    </view>
+                 </view>
+                </view>
+     <view class="weui-panel__bd"  catchtap="goContactus">
+               <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">申请表</view>
+                     
+                    </view>
+               </view>
+                </view>
+
+
+                     <view class="weui-panel__bd" catchtap="goContactus">
+                <view class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">营业执照或身份证</view>
+                     
+                    </view>
+                        </view>
+                </view>
+              </view>
+
+
+  <view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd">软件著作权办理</view>
+            <view class="weui-panel__bd"  catchtap="ruanzhubanli">
+                 <view class="weui-media-box weui-media-box_appmsg"  catchtap="ruanzhubanli">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="ruanzhubanli">
+                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png"  catchtap="ruanzhubanli"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="ruanzhubanli">
+                        <view class="weui-media-box__title" catchtap="ruanzhubanli">软件著作权办理</view>
+                
+                    </view>
+             </view>
+                </view>
+
+     <view class="weui-panel__bd"  catchtap="ruanzhudaiban">
+                <view  class="weui-media-box weui-media-box_appmsg"  catchtap="ruanzhudaiban">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="ruanzhudaiban">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png"  catchtap="ruanzhudaiban"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="ruanzhudaiban">
+                        <view class="weui-media-box__title" catchtap="ruanzhudaiban">软件著作权代办</view>
+                       
+                    </view>
+                 </view>
+                </view>
+     <view class="weui-panel__bd"  catchtap="ruanzhushenqing">
+               <view  class="weui-media-box weui-media-box_appmsg"  catchtap="ruanzhushenqing">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="ruanzhushenqing">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="ruanzhushenqing"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="ruanzhushenqing">
+                        <view class="weui-media-box__title" catchtap="ruanzhushenqing">软件著作权申请</view>
+                     
+                    </view>
+               </view>
+                </view>
+
+
+                     <view class="weui-panel__bd" catchtap="ruanzhujiaji">
+                <view class="weui-media-box weui-media-box_appmsg"  catchtap="ruanzhujiaji">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="ruanzhujiaji">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="ruanzhujiaji"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="ruanzhujiaji">
+                        <view class="weui-media-box__title" catchtap="ruanzhujiaji">软件著作权加急</view>
+                     
+                    </view>
+                        </view>
+                </view>
+              </view>
+
+
+
+
+<view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd" catchtap='goMoredRjzzq'>更多软件著作权知识</view>
+  </view>
+
+

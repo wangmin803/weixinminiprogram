@@ -2,35 +2,35 @@
 <view class="banner1"></view>
 <view class="weui-panel weui-panel_access" style="margin-top:0px;">
             <view class="weui-panel__hd">商标注册</view>
-            <view class="weui-panel__bd">
-               <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                        <image class="weui-media-box__thumb" src="../../assets/imgs/xcx.jpg" />
+            <view class="weui-panel__bd" catchtap="goContactus">
+            <view  class="weui-media-box weui-media-box_appmsg" catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/xcx.jpg" catchtap="goContactus"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">商标局备案机构</view>
-                        <view class="weui-media-box__desc">正规的商标局备案机构。</view>
-                    </view>
-                </view>
-            <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                     <image class="weui-media-box__thumb" src="../../assets/imgs/fwh.jpg" />
-                    </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">专业查询</view>
-                        <view class="weui-media-box__desc">免费查询商标近似</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">商标局备案机构</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">正规的商标局备案机构。</view>
                     </view>
                 </view>
+         <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/fwh.jpg"  catchtap="goContactus"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">专业查询</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">免费查询商标近似</view>
+                    </view>
+             </view>
               
-                    <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                        <image class="weui-media-box__thumb" src="../../assets/imgs/qyh.jpg" />
+                  <view class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                        <image class="weui-media-box__thumb" src="../../assets/imgs/qyh.jpg"  catchtap="goContactus"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">电子平台上报</view>
-                        <view class="weui-media-box__desc">通过电子平台上报商标</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">电子平台上报</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">通过电子平台上报商标</view>
                     </view>
-                </view>
+                  </view>
 
                 
             </view>
@@ -38,56 +38,56 @@
       
   <view class="weui-panel weui-panel_access">
             <view class="weui-panel__hd">商标注册需要的材料</view>
-            <view class="weui-panel__bd">
-             <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png" />
+            <view class="weui-panel__bd"  catchtap="goContactus">
+                 <view class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png"  catchtap="goContactus"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">代理委托书</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">代理委托书</view>
                 
                     </view>
-                </view>
+             </view>
                 </view>
 
-     <view class="weui-panel__bd">
-                <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png" />
+     <view class="weui-panel__bd"  catchtap="goContactus">
+                <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png"  catchtap="goContactus"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">营业执照</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">营业执照</view>
                        
                     </view>
+                 </view>
                 </view>
-                </view>
-     <view class="weui-panel__bd">
-               <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" />
+     <view class="weui-panel__bd"  catchtap="goContactus">
+               <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="goContactus"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">身份证</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">身份证</view>
                      
                     </view>
-                </view>
+               </view>
                 </view>
 
 
-                     <view class="weui-panel__bd">
-           <view bindtap='goSbzc'   class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
-                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" />
+                     <view class="weui-panel__bd" catchtap="goContactus">
+                <view class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="goContactus"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
-                        <view class="weui-media-box__title">商标图样</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
+                        <view class="weui-media-box__title" catchtap="goContactus">商标图样</view>
                      
                     </view>
-                </view>
+                        </view>
                 </view>
               </view>
-                <view class="weui-panel weui-panel_access">
-            <view class="weui-panel__hd" bindtap='goMoredSbzc'>更多商标注册知识</view>
+<view class="weui-panel weui-panel_access">
+            <view class="weui-panel__hd" catchtap='goMoredSbzc'>更多商标注册知识</view>
   </view>
 
 

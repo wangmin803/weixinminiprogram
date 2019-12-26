@@ -23,8 +23,8 @@ page {
 
 /**  background: #f00;**/
   border-left: 10rpx solid #4ec4c8;
-  border-bottom: 1rpx solid #eeeeee;
-  margin-top: 10px;
+ /**border-bottom: 1rpx solid #eeeeee;**/
+/** margin-top: 10px;**/
 }
 
 .list .list-item:first-of-type {

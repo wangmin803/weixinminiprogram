@@ -1,49 +1,63 @@
 {
-  "pages": [
-    "pages/index/index",
-    "pages/contactus/contactus",
-    "pages/sbzc/sbzc",
-    "pages/gxrd/gxrd",
-    "pages/detail/detail",
-    "pages/gxrdlist/gxrdlist"
-  ],
-  "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "山西景铭科技有限公司",
-    "navigationBarTextStyle": "black"
-  },
-  "tabBar": {
-    "color": "#13227a",
-    "selectedColor": "#d81e06",
-    "backgroundColor": "#fff",
-    "borderStyle": "black",
-    "list": [
-      {
-        "pagePath": "pages/index/index",
-        "iconPath": "assets/imgs/home.png",
-        "selectedIconPath": "assets/imgs/home_act.png",
-        "text": "公司首页"
-      },
-      {
-        "pagePath": "pages/sbzc/sbzc",
-        "iconPath": "assets/imgs/home.png",
-        "selectedIconPath": "assets/imgs/home_act.png",
-        "text": "商标注册"
-      },
-      {
-        "pagePath": "pages/gxrd/gxrd",
-        "iconPath": "assets/imgs/home.png",
-        "selectedIconPath": "assets/imgs/home_act.png",
-        "text": "高新认定"
-      },
-      {
-        "pagePath": "pages/contactus/contactus",
-        "iconPath": "assets/imgs/lianxi.png",
-        "selectedIconPath": "assets/imgs/lianxi_act.png",
-        "text": "联系我们"
-      }
-    ]
-  },
-  "sitemapLocation": "sitemap.json"
+    "pages": [
+        "pages/index/index",
+        "pages/contactus/contactus",
+        "pages/sbzc/sbzc",
+        "pages/gxrd/gxrd",
+        "pages/gxrdlist/gxrdlist",
+        "pages/detail/detail",
+        "pages/detail/gqrddetail",
+        "pages/detail/sbzcdetail",
+        "pages/rjzzq/rjzzq",
+        "pages/detail/rjzzqdetail",
+        "pages/detail/ruanzhujiaji/ruanzhujiaji",
+         "pages/detail/ruanzhudaiban/ruanzhudaibanl",
+           "pages/detail/ruanzhushenqing/ruanzhushenqing",
+        "pages/detail/ruanzhubanli/ruanzhubanli"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "山西高新技术企业认定,山西商标注册,山西软件著作权",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "color": "#13227a",
+        "selectedColor": "#d81e06",
+        "backgroundColor": "#fff",
+        "borderStyle": "black",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "assets/imgs/home.png",
+                "selectedIconPath": "assets/imgs/home_act.png",
+                "text": "公司首页"
+            },
+            {
+                "pagePath": "pages/sbzc/sbzc",
+                "iconPath": "assets/imgs/component.png",
+                "selectedIconPath": "assets/imgs/component_act.png",
+                "text": "商标注册"
+            },
+            {
+                "pagePath": "pages/gxrd/gxrd",
+                "iconPath": "assets/imgs/product.png",
+                "selectedIconPath": "assets/imgs/product_act.png",
+                "text": "高新认定"
+            },
+            {
+                "pagePath": "pages/rjzzq/rjzzq",
+                "iconPath": "assets/imgs/copy.png",
+                "selectedIconPath": "assets/imgs/copy_act.png",
+                "text": "软件著作权"
+            },
+            {
+                "pagePath": "pages/contactus/contactus",
+                "iconPath": "assets/imgs/atm.png",
+                "selectedIconPath": "assets/imgs/atm_act.png",
+                "text": "联系我们"
+            }
+        ]
+    },
+    "sitemapLocation": "sitemap.json"
 }
