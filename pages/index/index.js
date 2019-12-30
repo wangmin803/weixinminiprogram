@@ -28,6 +28,14 @@ Page({
     goGxrd: function () {
     app.goGxrd();
   },
+      goMoredGxrd: function () {
+       
+        app.goMoreList('gqrd');
+  },
+       goMoredSbzc: function () {
+       
+        app.goMoreList('sbzc');
+  },
   onShareAppMessage: function () {
     return {
       title: '山西景铭科技有限公司',

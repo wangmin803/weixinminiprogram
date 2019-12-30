@@ -4,10 +4,10 @@
       
   <view class="weui-panel weui-panel_access">
             <view class="weui-panel__hd">高新技术企业认定</view>
-            <view class="weui-panel__bd" catchtap="goContactus">
-                <view   class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">  
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
-                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png"  catchtap="goContactus"/>
+            <view class="weui-panel__bd" catchtap="goMoredGxrd">
+                <view   class="weui-media-box weui-media-box_appmsg"  catchtap="goMoredGxrd">  
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goMoredGxrd">
+                   <image class="weui-media-box__thumb" src="../../assets/imgs/bbs.png"  catchtap="goMoredGxrd"/>
                     </view>
                     <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
                         <view class="weui-media-box__title" catchtap="goContactus">专业辅导咨询</view>
@@ -16,21 +16,21 @@
                 </view>
                 </view>
 
-     <view class="weui-panel__bd" catchtap="goContactus">
-                <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
-                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png"  catchtap="goContactus"/>
+     <view class="weui-panel__bd" catchtap="goMoredGxrd">
+                <view  class="weui-media-box weui-media-box_appmsg"  catchtap="goMoredGxrd">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goMoredGxrd">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/store.png"  catchtap="goMoredGxrd"/>
                     </view>
-                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
-                        <view class="weui-media-box__title" catchtap="goContactus">提前培育</view>
-                        <view class="weui-media-box__desc" catchtap="goContactus">在高新技术企业申报的前一年提前进入企业辅导。</view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goMoredGxrd">
+                        <view class="weui-media-box__title" catchtap="goMoredGxrd">提前培育</view>
+                        <view class="weui-media-box__desc" catchtap="goMoredGxrd">在高新技术企业申报的前一年提前进入企业辅导。</view>
                     </view>
                 </view>
                 </view>
-     <view class="weui-panel__bd" catchtap="goContactus">
-                <view    class="weui-media-box weui-media-box_appmsg"  catchtap="goContactus">
-                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goContactus">
-                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="goContactus"/>
+     <view class="weui-panel__bd" catchtap="goMoredGxrd">
+                <view    class="weui-media-box weui-media-box_appmsg"  catchtap="goMoredGxrd">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goMoredGxrd">
+                      <image class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png"  catchtap="goMoredGxrd"/>
                     </view>
                     <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
                         <view class="weui-media-box__title" catchtap="goContactus">经验丰富</view>

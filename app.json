@@ -2,7 +2,7 @@
     "pages": [
         "pages/index/index",
         "pages/contactus/contactus",
-        "pages/sbzc/sbzc",
+   
         "pages/gxrd/gxrd",
         "pages/gxrdlist/gxrdlist",
         "pages/detail/detail",
@@ -18,7 +18,7 @@
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "山西高新技术企业认定,山西商标注册,山西软件著作权",
+        "navigationBarTitleText": "山西高新技术企业认定,山西软件著作权",
         "navigationBarTextStyle": "black"
     },
     "tabBar": {
@@ -33,12 +33,7 @@
                 "selectedIconPath": "assets/imgs/home_act.png",
                 "text": "公司首页"
             },
-            {
-                "pagePath": "pages/sbzc/sbzc",
-                "iconPath": "assets/imgs/component.png",
-                "selectedIconPath": "assets/imgs/component_act.png",
-                "text": "商标注册"
-            },
+           
             {
                 "pagePath": "pages/gxrd/gxrd",
                 "iconPath": "assets/imgs/product.png",
