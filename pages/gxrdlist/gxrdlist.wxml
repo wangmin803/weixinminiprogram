@@ -4,7 +4,21 @@
     <view class='list' >
       <block wx:for="{{list}}" wx:key="{{index}}">
           
-         <view   class='list-item' catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">{{item.newsName}} </view>     
+        <view class="weui-panel weui-panel_access" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
+          
+            <view class="weui-panel__bd"  catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
+                <view class="weui-media-box weui-media-box_appmsg"  catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
+                     <image class="weui-media-box__thumb" src="../../assets/imgs/dianshang.png" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}"/>
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
+                        <view class="weui-media-box__title" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">{{item.newsName}} </view>
+                  
+                    </view>
+                </view>       
+            </view>
+        </view>
+
     
       </block>       
     </view> 
