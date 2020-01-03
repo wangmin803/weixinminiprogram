@@ -9,7 +9,8 @@
             <view class="weui-panel__bd"  catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
                 <view class="weui-media-box weui-media-box_appmsg"  catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
                     <view class="weui-media-box__hd weui-media-box__hd_in-appmsg" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
-                     <image class="weui-media-box__thumb" src="../../assets/imgs/dianshang.png" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}"/>
+                     <image wx:if="{{index%2==0}}" class="weui-media-box__thumb" src="../../assets/imgs/dianshang.png" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}"/>
+                     <image wx:else="{{index%2!=0}}" class="weui-media-box__thumb" src="../../assets/imgs/zxjy.png" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}"/>
                     </view>
                     <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">
                         <view class="weui-media-box__title" catchtap="goDetail" data-channel="{{item.channelCode}}" data-id="{{item.id}}" data-tname="{{item.newsName}}">{{item.newsName}} </view>
