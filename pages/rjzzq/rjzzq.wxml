@@ -28,7 +28,7 @@
                     </view>
                     <view class="weui-media-box__bd weui-media-box__bd_in-appmsg" catchtap="goContactus">
                         <view class="weui-media-box__title" catchtap="goContactus">电子平台上报</view>
-                        <view class="weui-media-box__desc" catchtap="goContactus">通过电子平台上报商标</view>
+                        <view class="weui-media-box__desc" catchtap="goContactus">通过电子平台上报</view>
                     </view>
                   </view>
 
